@@ -74,7 +74,7 @@
         "editor.wrap_guide": "#FFFFFF",
         "editor.active_wrap_guide": "#FFFFFF",
         "editor.document_highlight.read_background": "#6FC3DF1A",
-        "editor.document_highlight.write_background": "#000000",
+        "editor.document_highlight.write_background": "#6FC3DF66",
 
         "terminal.background": "#000000",
         "terminal.foreground": "#FFFFFF",
