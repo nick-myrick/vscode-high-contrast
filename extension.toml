@@ -1,7 +1,7 @@
 id = "vscode-dark-high-contrast"
 name = "VSCode Dark High Contrast"
 description = "A clone of the Dark High Contrast theme from VSCode"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Nicholas Myrick <nmyrick@purdue.edu>"]
 repository = "https://github.com/nick-myrick/vscode-dark-high-contrast"
 schema_version = 1
